@@ -1,0 +1,8 @@
+{
+    "AUTO_PLAY":true,
+    "BOARD_COLUMN":30,
+    "BOARD_ROW":20,
+    "FOOD_NUM":30,
+    "SPEED":1000,
+    "TIME_INTERVAL":5
+}
